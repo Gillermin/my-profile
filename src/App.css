@@ -1,0 +1,31 @@
+.back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  
+}
+.back-to-top:hover {
+  color: transparent;
+}
+
+.back-to-top i {
+  display: block;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  color: #f8f8ff;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #01a9d0;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+/* color section */
+.sectionColor{
+  background-color: #041e42;
+  color: #f8f8ff;
+}

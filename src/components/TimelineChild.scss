@@ -1,0 +1,61 @@
+.timeline .card {
+    position: relative;
+    margin: 10px 0px 20px 10px;
+    clear: both;
+    background: #f8f8ff;
+    border: 0px;
+    border-radius: 0.3rem;
+    width: 100%;
+    color: #000;
+}
+
+.timeline .card::before {
+    position: absolute;
+    display: block;
+    top: 8px;
+    left: -24px;
+    content: '';
+    width: 0px;
+    height: 0px;
+    border: inherit;
+    border-width: 12px;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+
+.timeline .card .card-heading.icon * { font-size: 20px; vertical-align: middle; line-height: 40px; }
+.timeline .card .card-heading.icon {
+    content: '';
+      position: absolute;
+      top: 15px;
+      left: -36px;
+      width: 16px;
+      height: 16px;
+      border-radius: 10px;
+      z-index: 1;
+      box-shadow: 0 0 0 8px rgba(226, 227, 224, 0.65);
+      background: #f0f0f7;
+}
+
+.timeline .card-outline {
+    border-color: transparent;
+    box-shadow: none;
+}
+
+.timeline .card-outline .card-body {
+    padding: 0.5rem;
+}
+
+.card-header {
+    padding: 0.5rem;
+}
+
+.card-header:before {
+    content: '';
+    position: absolute;
+    right: 100%;
+    border: 1rem solid transparent;
+    border-right: 1.25rem solid #f0f0f7;
+}
+  

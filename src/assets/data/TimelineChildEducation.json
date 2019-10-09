@@ -1,0 +1,23 @@
+{
+    "TimelineChildEducation":[
+        {
+            "cardHeader":"Master Degree in Computer Science",
+            "cardTitle":"Public University",
+            "cardSubTitle":"Graduated in Dec 2012",
+            "cardParagraph":""
+        },
+        {
+            "cardHeader":"Bachelor Degree in Computer Engineer",
+            "cardTitle":"Public University",
+            "cardSubTitle":"Graduated in Dec 2010",
+            "cardParagraph":""
+        }
+        ,
+        {
+            "cardHeader":"High School Graduate",
+            "cardTitle":"Public School",
+            "cardSubTitle":"Graduated in Dec 2006",
+            "cardParagraph":""
+        }
+    ]
+}

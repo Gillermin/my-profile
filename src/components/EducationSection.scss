@@ -1,0 +1,26 @@
+$backgroundColor: #a9a9a9;
+$transparency50Percent: #a9a9a980; //xxxxxx80 = 0.5 transparency 
+
+#education .timeline .line {
+    background: $backgroundColor;
+}
+
+#education .timeline .line::before,
+#education .timeline .line::after {
+    background: $backgroundColor;
+}
+
+#education .timeline .card .card-heading.icon {
+    box-shadow: 0 0 0 8px $transparency50Percent;
+    background: $backgroundColor;
+}
+
+#education .timeline .card {
+    background: $backgroundColor;
+    color: #f8f8ff;
+}
+
+#education .card-header:before {
+    border-right: 1.25rem solid #a4a4a4;
+}
+  

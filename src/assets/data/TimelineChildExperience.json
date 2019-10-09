@@ -1,0 +1,22 @@
+{
+    "TimelineChildExperience":[
+        {
+            "cardHeader":"Jr. React Developer",
+            "cardTitle":"Company 3",
+            "cardSubTitle":"Jun 2019 - Present",
+            "cardParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, debitis. Adipisci dolorem ipsa obcaecati perferendis a cupiditate omnis nostrum doloremque dicta. Atque repellendus nesciunt quasi asperiores nihil dolorem aliquam optio."
+        },
+        {
+            "cardHeader":"Front End Developer",
+            "cardTitle":"Company 2",
+            "cardSubTitle":"Jun 2016 - Dec 2018",
+            "cardParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, debitis. Adipisci dolorem ipsa obcaecati perferendis a cupiditate omnis nostrum doloremque dicta. Atque repellendus nesciunt quasi asperiores nihil dolorem aliquam optio."
+        },
+        {
+            "cardHeader":"Back End Developer",
+            "cardTitle":"Company 1",
+            "cardSubTitle":"Jun 2013 - Dec 2015",
+            "cardParagraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, debitis. Adipisci dolorem ipsa obcaecati perferendis a cupiditate omnis nostrum doloremque dicta. Atque repellendus nesciunt quasi asperiores nihil dolorem aliquam optio."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "AboutSkills":[
+        {
+            "value":"90",
+            "title":"HTML"
+        },
+        {
+            "value":"85",
+            "title":"CSS"
+        },
+        {
+            "value":"80",
+            "title":"JS"
+        },
+        {
+            "value":"75",
+            "title":"PHP"
+        },
+        {
+            "value":"70",
+            "title":".NET"
+        },
+        {
+            "value":"65",
+            "title":"REACT"
+        }
+    ]
+}

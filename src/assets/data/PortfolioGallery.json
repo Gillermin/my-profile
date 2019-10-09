@@ -1,0 +1,30 @@
+{
+    "PortfolioGallery":[
+        {
+            "image":"https://cornel.bopp-art.com/lightcase/project/img/examples/1b.jpg",
+            "link":"https://example.com/",
+            "gallery":[
+                {
+                    "0":"https://cornel.bopp-art.com/lightcase/project/img/examples/2b.jpg"
+                },
+                {
+                    "1":"https://cornel.bopp-art.com/lightcase/project/img/examples/3b.jpg"
+                }
+            ]
+        },
+        {
+            "image":"https://cornel.bopp-art.com/lightcase/project/img/examples/4b.jpg",
+            "link":"https://example.com/",
+            "gallery":[
+                {
+                    "0":"https://cornel.bopp-art.com/lightcase/project/img/examples/5b.jpg"
+                }
+            ]
+        },
+        {
+            "image":"https://cornel.bopp-art.com/lightcase/project/img/examples/7b.jpg",
+            "link":"https://example.com/",
+            "gallery":[]
+        }
+    ]
+}
